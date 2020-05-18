@@ -17,6 +17,7 @@ in
 }	
 ```
 
+ArXiv version: https://arxiv.org/abs/2005.03436
 
 Alignments are stored in the `alignments` directory in subdirectories
 corresponding to PUD corpora. Each subdirectory contains three files:
