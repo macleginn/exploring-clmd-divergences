@@ -268,7 +268,7 @@ def get_confusion_matries_for_corpus(corpus, cursor, strip_subcategories=False):
 
 
 if __name__ == '__main__':
-    conn = sqlite3.connect('pud_current.db')
+    conn = sqlite3.connect('../data/pud_current.db')
     cursor = conn.cursor()
     for corpus in [
         'en-fr',

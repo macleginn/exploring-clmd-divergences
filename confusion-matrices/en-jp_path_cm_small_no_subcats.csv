@@ -1,0 +1,18 @@
+en,acl,advcl,advmod,amod,appos,ccomp,compound,fixed,nmod,nsubj,nummod,obj,obl,Nodes collapsed,Other,MCOP_count,MCOP
+acl,42,5,0,0,0,0,1,0,9,1,0,1,0,5,58,6,nmod+acl
+advcl,0,4,0,0,0,0,1,0,0,0,0,1,0,4,15,2,obj+acl
+advmod,2,6,37,3,0,1,10,0,3,4,6,2,5,31,112,21,aux
+amod,73,2,3,63,0,0,185,0,131,5,15,5,1,222,108,17,compound+compound
+appos,4,2,0,0,11,0,21,0,25,0,0,0,0,2,41,13,nmod+nmod
+ccomp,1,1,0,0,0,2,0,0,0,0,0,0,1,0,9,1,aux
+compound,3,0,0,4,0,0,224,0,108,0,1,2,1,282,68,21,compound+compound
+conj,2,18,0,2,0,0,1,0,121,1,0,0,2,7,188,51,nmod+nmod
+fixed,0,0,0,0,0,0,1,0,1,0,0,0,0,44,2,1,case
+flat,0,0,0,0,0,0,32,0,93,0,0,0,0,40,45,17,nmod+compound
+nmod,2,1,0,2,2,0,72,0,378,3,1,6,7,68,329,63,nmod+nmod
+nsubj,2,0,1,0,0,0,3,0,11,199,0,5,11,25,184,25,nsubj+advcl
+nummod,1,0,0,0,0,0,5,0,0,0,68,0,1,11,28,17,nummod+compound
+obj,0,3,0,1,0,0,8,0,12,17,0,93,3,22,44,10,iobj
+obl,1,1,9,0,0,0,7,0,16,4,0,13,73,12,216,59,iobj
+parataxis,0,1,0,0,0,1,0,0,0,0,0,0,0,0,12,2,advcl+obl
+xcomp,3,5,2,0,0,3,0,0,0,1,0,2,1,2,20,7,aux
