@@ -9,11 +9,10 @@ in
 ```bibtex
 @inproceedings{nikolaevetal2020clmd,
 	title="Fine-Grained Analysis of Cross-Linguistic Syntactic Divergences",
-	author="Nikolaev, Dmitry and Arviv, Ofir and Karidi, Taelin and Kenneth, Neta and Mitnik, Veronika		and Saeboe, Lilja Maria and Abend, Omri",
-	booktitle="Proceedings of the 2020 {C}onference of the {A}ssociation for {C}omputational
-		{L}inguistics",
+	author="Nikolaev, Dmitry and Arviv, Ofir and Karidi, Taelin and Kenneth, Neta and Mitnik, Veronika and Saeboe, Lilja Maria and Abend, Omri",
+	booktitle="Proceedings of the 2020 {C}onference of the {A}ssociation for {C}omputational {L}inguistics",
 	year="2020",
-	pages="forthcoming"
+	pages="1159–1176"
 }	
 ```
 
