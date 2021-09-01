@@ -2,7 +2,7 @@
 
 This repository contains word-alignment annotations for several language pairs
 with PUD corpora.  At the moment, English–French, English–Russian,
-English–Chinese, English–Japanese, and English–Korean are available. The
+English–Chinese, English–Japanese, English–Korean, and English-Arabic are available. The
 analysis of the morphosyntactic divergences in these language pairs was reported
 in
 
@@ -16,7 +16,18 @@ in
 }	
 ```
 
-ArXiv version: https://arxiv.org/abs/2005.03436
+Please cite this paper if you use the data in your work. If you use the English-Arabic alignments, please also cite
+
+```bibtex
+@misc{rafaeli2021speech,
+      title={Part of Speech and Universal Dependency effects on English Arabic Machine Translation}, 
+      author={Ofek Rafaeli and Omri Abend and Leshem Choshen and Dmitry Nikolaev},
+      year={2021},
+      eprint={2106.00745},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 Alignments are stored in the `alignments` directory in subdirectories
 corresponding to PUD corpora. Each subdirectory contains three files:
